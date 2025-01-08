@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "d3a1082dbbf79de3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd80f72451a82809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "157e5cb784e5fa96",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d6a898e5ab6afc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c362cf31361667d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224802d3b2885910",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b89ea7644eaab389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "963cdd29bbd6ce5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a75ba411a1e6f7df",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b67f694cd5e18c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7680f593eb7c210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4eb48cf0b5be612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Language.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Language"
+            }
+          },
+          {
+            "id": "2c458eeb3c138357",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Language.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Language"
+            }
+          },
+          {
+            "id": "951358bef8988c4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f88998a041715c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Language.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Language"
+            }
+          },
+          {
+            "id": "f8e1726a3bf20da0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "157e5cb784e5fa96",
+  "lastOpenFiles": [
+    "Language/Grammar.md",
+    "Language/Samples.md",
+    "Culture.md",
+    "Language/Phonology.md",
+    "Language/Morphology.md",
+    "Language/Vocabulary.xlsx",
+    "Language/Language.md",
+    "Phnology-in-Linguistic-Anthropology.webp",
+    "//Untitled.canvas",
+    "Untitled.canvas",
+    "Vault.md",
+    "Language",
+    "Welcome.md",
+    "Tags"
+  ]
+}
